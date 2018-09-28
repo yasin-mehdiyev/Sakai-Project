@@ -1,0 +1,19 @@
+.map-section{
+	position: relative;
+}
+.map-data{
+	text-align:center;
+	font-size:14px;
+	font-weight:400;
+	line-height:1.8em;
+}
+.map-data h6{
+	font-size:16px;
+	font-weight:700;
+	text-align:center;
+	margin-bottom:5px;
+	color:#121212;
+}
+.map-canvas{
+	height:540px;
+}
